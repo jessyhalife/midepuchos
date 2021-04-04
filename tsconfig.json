@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "puchos/context.tss", "puchos/context.tss"  ],
   "exclude": [
     "node_modules"
   ]
